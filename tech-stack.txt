@@ -1,0 +1,39 @@
+Tech Stack
+    Programming Languages
+        Java
+        ECMAScript
+        TypeScript
+        SQL
+        HTML
+        CSS
+        SASS
+        YAML
+
+    Frameworks and Libraries
+        Java FX
+        Java SE
+        Jakarta EE
+        Spring
+        Spring Boot
+        Hibernate validator
+        Hibernate JPA
+        Maven
+        YARN
+        Angular
+        React JS
+        bootstrap
+        JQuery
+        AJAX
+        Fetch
+        Spring Data JPA
+        Lombok
+        Tailwind CSS
+        Node JS
+        NPM
+        Jackson
+
+    DBMS
+        PostgresSQL
+        MYSQL
+        MongoDB
+
